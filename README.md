@@ -41,7 +41,7 @@ The system follows a structured, step-by-step workflow to manage appointments. K
 Access the application through the provided users in this pic.
 ![Untitled4](https://github.com/user-attachments/assets/5b6fb5bb-e084-4420-94d1-da703e39373c)
 
-password for all users(aeamfm1984)
+password for all users(**********)
 
 ## Screenshots
 ![Untitled5](https://github.com/user-attachments/assets/59dfa024-13a0-4f5b-b552-9670857d8b59)
